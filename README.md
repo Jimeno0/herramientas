@@ -13,4 +13,5 @@ Se utilizará:
 
 ## Contribuciones
 
-Animamos a que cualquier persona contribuya que esté interesada en contribuir lo comunique a través de los issues.
+Animamos a que cualquier persona interesada en contribuir lo comunique a través de los issues.
+
